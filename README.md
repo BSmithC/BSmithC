@@ -1,9 +1,9 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/> Bienvenid@ al GitHub de **BSmithC**
 
-<img src="https://i.ibb.co/67KT9f5v/Imagen-de-Whats-App-2025-12-05-a-las-20-49-32-19187c59.jpg" alt="Banner de BSmithC" width="100%" />
+<img src="https://i.ibb.co/0y7FZ3bZ/Imagen-de-Whats-App-2025-12-05-a-las-21-03-58-74276207.jpg" alt="Banner de BSmithC"  />
 
 ---
-
+.
 ## 💻 Sobre mí
 
 Soy **Billy Smith Capellán**, desarrollador **Full-Stack** apasionado por crear proyectos, aplicaciones y experimentar con nuevas tecnologías. Este es un espacio donde comparto mis aprendizajes y trabajo, invitando a todos a explorar, probar y colaborar.

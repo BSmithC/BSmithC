@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/0y7FZ3bZ/Imagen-de-Whats-App-2025-12-05-a-las-21-03-58-74276207.jpg" alt="Banner de BSmithC"  />
 
 ---
-.
+
 ## 💻 Sobre mí
 
 Soy **Billy Smith Capellán**, desarrollador **Full-Stack** apasionado por crear proyectos, aplicaciones y experimentar con nuevas tecnologías. Este es un espacio donde comparto mis aprendizajes y trabajo, invitando a todos a explorar, probar y colaborar.

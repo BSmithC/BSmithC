@@ -1,6 +1,6 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/> Welcome to **BSmithC**'s GitHub
 
-<img src="https://i.ibb.co/0y7FZ3bZ/Imagen-de-Whats-App-2025-12-05-a-las-21-03-58-74276207.jpg" alt="BSmithC Banner" />
+<img src="https://i.ibb.co/0yvwnvKd/Imagen-de-Whats-App-2025-12-05-a-las-21-17-14-416122b6.jpg" alt="BSmithC Banner" />
 
 ---
 

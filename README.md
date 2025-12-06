@@ -1,16 +1,16 @@
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/> Bienvenid@ al GitHub de **BSmithC**
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/> Welcome to **BSmithC**'s GitHub
 
-<img src="https://i.ibb.co/0y7FZ3bZ/Imagen-de-Whats-App-2025-12-05-a-las-21-03-58-74276207.jpg" alt="Banner de BSmithC"  />
-
----
-
-## 💻 Sobre mí
-
-Soy **Billy Smith Capellán**, desarrollador **Full-Stack** apasionado por crear proyectos, aplicaciones y experimentar con nuevas tecnologías. Este es un espacio donde comparto mis aprendizajes y trabajo, invitando a todos a explorar, probar y colaborar.
+<img src="https://i.ibb.co/0y7FZ3bZ/Imagen-de-Whats-App-2025-12-05-a-las-21-03-58-74276207.jpg" alt="BSmithC Banner" />
 
 ---
 
-## 🔧 Tecnologías y Herramientas
+## 💻 About Me
+
+I'm **Billy Smith Capellán**, a passionate **Full-Stack Developer** who loves creating projects, building apps, and experimenting with new technologies. This is a space where I share my work and learning journey, inviting everyone to explore, try things out, and collaborate.
+
+---
+
+## 🔧 Technologies & Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
@@ -31,17 +31,14 @@ Soy **Billy Smith Capellán**, desarrollador **Full-Stack** apasionado por crear
 
 ---
 
-## 🚀 Qué hacer aquí
+## 🚀 What to Do Here
 
-* Explora mis **repositorios** y proyectos.
-* Prueba lo que te llame la atención.
-* Comparte ideas, sugerencias o comentarios.
+* Explore my **repositories** and projects.
+* Try out anything that catches your eye.
+* Share your ideas, suggestions, or feedback.
 
-> Aquí todos aprendemos y creamos juntos.
+> This is a space for learning and creating together.
 
 ---
 
-Si quieres, puedo hacer también una **versión con diseño aún más profesional**, usando secciones en columnas, emojis, y un estilo visual tipo "portfolio" que se vea moderno y llamativo en GitHub.
-
-¿Quieres que haga esa versión también?
-
+I can also create an **even more professional version** with columns, more emojis, and a modern portfolio-style visual layout for GitHub if you want.

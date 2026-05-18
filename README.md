@@ -1,25 +1,14 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/> Welcome to **BSmithC**'s GitHub
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Billy Smith Capellán</h1></summary>
-  </ul>
-</div>
+<img src="https://i.ibb.co/0yvwnvKd/Imagen-de-Whats-App-2025-12-05-a-las-21-17-14-416122b6.jpg" alt="BSmithC Banner" />
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+---
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Code is art, and I'm the artist</h2></summary>
-  </ul>
-</div>
+## 💻 About Me
+
+I'm **Billy Smith Capellán**, a passionate **Full-Stack Developer** who loves creating projects, building apps, and experimenting with new technologies. This is a space where I share my work and learning journey, inviting everyone to explore, try things out, and collaborate.
+
+---
 
 <!--Intro start-->
 - 🔭 I'm currently working on **Full-Stack projects with React, Laravel, and Vue.js**

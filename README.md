@@ -75,6 +75,21 @@ Soy **Billy Smith Capellán**, un **Full-Stack Developer** apasionado por crear 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSmithC&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2D20&fire=FF6B6B&currStreakLabel=FF2D20" width="70%"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BSmithC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BSmithC&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=FF2D20&point=FF6B6B" width="90%"/>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSmithC/BSmithC/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/BSmithC/BSmithC/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+</div>
+
 ---
 
 ## What to Do Here

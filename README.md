@@ -1,111 +1,111 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV2ZXBoZmlwd2F5YXFyNXFnYjI1bTg2ZWM5OTI2ZXB5OXhjZWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif" width="120"/>
-
-# Welcome to BSmithC's GitHub
-
 <img src="https://i.ibb.co/0yvwnvKd/Imagen-de-Whats-App-2025-12-05-a-las-21-17-14-416122b6.jpg" alt="BSmithC Banner" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1400&color=D8442B&center=true&vCenter=true&width=720&lines=Billy+Smith+Capell%C3%A1n;Full-Stack+Developer;Laravel+%C2%B7+React+%C2%B7+Android;Build+with+intention%2C+however+small+the+space" alt="Typing SVG"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-BSmithC-0b0b0d?style=flat-square&logo=github&logoColor=E8E2D0&labelColor=0b0b0d&color=C9A24B)](https://github.com/BSmithC)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ver_sitio-D8442B?style=flat-square&labelColor=0b0b0d)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-1F2A5A?style=flat-square&logo=linkedin&logoColor=E8E2D0&labelColor=0b0b0d)](#)
+[![Email](https://img.shields.io/badge/Email-escribeme-C9A24B?style=flat-square&logo=gmail&logoColor=E8E2D0&labelColor=0b0b0d)](#)
+
+<br>
+
+`┌─────────────────────────────────────────────┐`
+
+### 一期一会
+
+*One time, one meeting. Cada visita, cada colaboración, cuenta.*
+
+`└─────────────────────────────────────────────┘`
 
 </div>
 
 <br>
 
+## 自己紹介 &nbsp;·&nbsp; Sobre mí
+
+| | |
+|:--|:--|
+| **役割** &nbsp; Rol | Full-Stack Developer en formación continua |
+| **技術** &nbsp; Foco | Laravel, React, Tailwind y desarrollo Android |
+| **言語** &nbsp; Idiomas | Español, English |
+| **好き** &nbsp; Me gusta | Interfaces con identidad propia, diseño japonés minimalista, cultura latina |
+
+> Soy **Billy Smith Capellán**. Me gusta crear, construir apps y experimentar con nuevas tecnologías. Este es mi espacio para compartir mi trabajo y mi camino de aprendizaje.
+>
+> *I'm Billy Smith Capellán, a Full-Stack Developer who loves building apps and trying new tech. This is where I share my work and learning journey.*
+
 <div align="center">
 
-*"Build with intention, however small the space."*
+`──────────  ◆  ──────────`
 
 </div>
 
----
-
-## About Me
-
-Soy **Billy Smith Capellán**, un **Full-Stack Developer** apasionado por crear proyectos, construir apps y experimentar con nuevas tecnologías. Este es un espacio donde comparto mi trabajo y mi camino de aprendizaje, abierto a explorar, probar cosas y colaborar.
-
-> I'm **Billy Smith Capellán**, a passionate **Full-Stack Developer** who loves building projects, apps, and experimenting with new tech. This is a space where I share my work and learning journey — open to exploring, trying things, and collaborating.
-
----
-
-## Technologies & Tools
+## 技術 &nbsp;·&nbsp; Tecnologías
 
 <div align="center">
 
-**Languages**
-
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-
-**Frameworks & Libraries**
-
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.react.dev/)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-**Tools & Operating Systems**
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BSmithC)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-
-**Other**
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3o50SIAeVswxkPd2JsGeNd?si=p9lPgX6uRxycvOlSW5d9aA)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,html,css&perline=7&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,vite,tailwind,androidstudio&perline=6&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma&perline=6&theme=dark" />
 
 </div>
 
----
-
-## GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BSmithC&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6b6b&icon_color=e34c26&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSmithC&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
+
+`──────────  ◆  ──────────`
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BSmithC&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2D20&fire=FF6B6B&currStreakLabel=FF2D20" width="70%"/>
-</div>
+## 統計 &nbsp;·&nbsp; Estadísticas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BSmithC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BSmithC&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=FF2D20&point=FF6B6B" width="90%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=BSmithC&show_icons=true&hide_border=true&title_color=D8442B&icon_color=C9A24B&text_color=E8E2D0&bg_color=0b0b0d&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSmithC&layout=compact&hide_border=true&title_color=D8442B&text_color=E8E2D0&bg_color=0b0b0d&langs_count=8" width="48%"/>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=BSmithC&hide_border=true&background=0b0b0d&ring=D8442B&fire=C9A24B&currStreakNum=E8E2D0&sideNums=E8E2D0&currStreakLabel=D8442B&sideLabels=C9A24B&dates=8A8576" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BSmithC&hide_border=true&bg_color=0b0b0d&color=E8E2D0&line=D8442B&point=C9A24B&area=true&area_color=D8442B" width="90%"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSmithC/BSmithC/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/BSmithC/BSmithC/output/github-contribution-grid-snake.svg" width="90%"/>
 </picture>
+
 </div>
-
----
-
-## What to Do Here
-
-* Explore my **repositories** and projects.
-* Try out anything that catches your eye.
-* Share your ideas, suggestions, or feedback.
-
-> This is a space for learning and creating together.
-
----
 
 <div align="center">
 
-*"One time, one meeting" — every visit, every collaboration, matters.*
+`──────────  ◆  ──────────`
 
-**Gracias por pasar por aquí — Thanks for stopping by**
+</div>
+
+## 連絡 &nbsp;·&nbsp; Contacto
+
+* Explora mis **repositorios**.
+* Comparte ideas, sugerencias o feedback.
+* ¿Un proyecto en mente? **Hablemos.**
+
+<br>
+
+<div align="center">
+
+`┌─────────────────────────────────────────────┐`
+
+**ありがとう &nbsp;·&nbsp; Gracias por pasar por aquí**
+
+*間 (ma): construir con intención, por pequeño que sea el espacio.*
+
+`└─────────────────────────────────────────────┘`
+
+[![Playlist](https://img.shields.io/badge/Mi_playlist-Spotify-0b0b0d?style=flat-square&logo=spotify&logoColor=C9A24B&labelColor=0b0b0d&color=C9A24B)](https://open.spotify.com/playlist/3o50SIAeVswxkPd2JsGeNd?si=p9lPgX6uRxycvOlSW5d9aA)
+
+<sub>Hecho por <b>Billy Smith Capellán</b></sub>
 
 </div>
